@@ -15,7 +15,7 @@ namespace lifbi.sanduhr.logic
         private StringBuilder _builder = new StringBuilder();
 
         /// <summary>
-        /// Returns the hourglass to be printe or used otherwise
+        /// Returns the hourglass to be printed or used otherwise
         /// </summary>
         /// <param name="width">the width of the top and base of the hourglass</param>
         public string Print(int width)
